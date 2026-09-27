@@ -9,6 +9,8 @@
 
 ## Setup
 
+Make sure Bun is installed first. See the [Bun installation guide](https://bun.sh/docs/installation).
+
 ```sh
 git clone https://github.com/fiqhidayat/rest-api-practical-test.git
 cd rest-api-practical-test
